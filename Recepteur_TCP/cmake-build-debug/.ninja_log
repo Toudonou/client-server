@@ -1,0 +1,8 @@
+# ninja log v5
+1	30	1710229338476265500	CMakeFiles/Recepteur.dir/recepteur.c.o	edd7f829fbb67f0d
+1	30	1710229338476265500	CMakeFiles/Recepteur.dir/main.c.o	d5a2d4622415a26a
+30	46	1710229338492265400	Recepteur	4bbf7d2a10a2ef0a
+0	17	1710229413876065600	build.ninja	c5ecd6c6a1d5e5d7
+1	24	1710229413904065600	CMakeFiles/Recepteur.dir/main.c.o	d5a2d4622415a26a
+1	26	1710229413908065600	CMakeFiles/Recepteur.dir/client.c.o	7647f0f5fcac9c2f
+27	43	1710229413924065500	Recepteur	d02f439b76a857d1

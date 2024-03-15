@@ -1,0 +1,3 @@
+/media/toudonou/Data/EILCO/Semestre_6/Reseau/Client_UDP/cmake-build-debug/CMakeFiles/Recepteur_UDP.dir
+/media/toudonou/Data/EILCO/Semestre_6/Reseau/Client_UDP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/toudonou/Data/EILCO/Semestre_6/Reseau/Client_UDP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
